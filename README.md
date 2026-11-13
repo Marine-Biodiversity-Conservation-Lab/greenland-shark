@@ -5,7 +5,7 @@
 This repository holds the minimal data and code needed to reproduce the
 three-panel figure on the Greenland shark (*Somniosus microcephalus*) in:
 
-Dulvy, N. K. & VanderWright, W. J. (2027). Quick Guide Greenland Shark. *Current Biology,* 37**,** R1–R3. 
+Dulvy, N. K. & VanderWright, W. J. (2027). Quick Guide Greenland Shark. *Current Biology,* 37, R1–R3. 
 
 The figure puts the Greenland shark in context of (A) its genus's
 distribution, (B) the temperature dependence of shark resting metabolic rate,
