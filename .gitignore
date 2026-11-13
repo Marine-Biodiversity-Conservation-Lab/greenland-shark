@@ -1,0 +1,23 @@
+# IUCN Red List range polygons may not be redistributed.
+# Obtain them from IUCN and run R/00_extract_iucn_ranges.R.
+data/iucn/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.RData
+
+# brms fit object: large and regenerable by R/01_fit_rmr_model.R
+outputs/fits/
+
+# macOS / RStudio
+.DS_Store
+.Rproj.user/
+.Rhistory
+.RData
+
+# Rendered figures: panel A draws the IUCN polygons, and the PDF/SVG embed
+# them as vector geometry. Regenerate with R/02_figure.R.
+outputs/figures/
