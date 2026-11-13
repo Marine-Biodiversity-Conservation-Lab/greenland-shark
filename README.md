@@ -3,7 +3,7 @@
 This repository holds the minimal data and code needed to reproduce the
 three-panel figure on the Greenland shark (*Somniosus microcephalus*) in:
 
-Dulvy, N. K. & VAnderWright, W. J. (2027). Quick Guide Greenland Shark. *Current Biology,* 37**,** R1–R3. 
+Dulvy, N. K. & VanderWright, W. J. (2027). Quick Guide Greenland Shark. *Current Biology,* 37**,** R1–R3. 
 
 The figure puts the Greenland shark in context of (A) its genus's
 distribution, (B) the temperature dependence of shark resting metabolic rate,
@@ -181,9 +181,9 @@ versions.
 | *L*<sub>max</sub> for two *Somniosus* | Ebert, Dando & Fowler (2021) |
 | Maximum length (other species) | Finucci et al. (2024) ; Gravel et al. (2024) |
 | Whale shark maximum mass (34 t) | Calculated by Wade VanderWright based on FishBase L-W coefficients |
-| Environmental temperature | Matsushiba et al. (2026) |
+| Environmental temperature | Matsushiba et al. (submitted) |
 | Phylogeny | Stein, Mull et al. (2018) |
-| Range maps | IUCN (2026.1) |
+| Range maps | IUCN (2024) |
 | Greenland shark point records | Mecklenburg et al. (2018); Kasana et al. (2022); Fossen et al. (2008) |
 | Land outlines | Natural Earth |
 | Silhouette | Margot Michaud (2018), PhyloPic, CC0 1.0; Gearty & Jones (2023) |
