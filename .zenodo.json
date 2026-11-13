@@ -1,0 +1,12 @@
+{
+  "title": "Greenland shark: range, metabolism and population growth (data and code)",
+  "upload_type": "software",
+  "description": "Minimal data and R code to reproduce the three-panel Greenland shark (<i>Somniosus microcephalus</i>) figure in Dulvy &amp; VanderWright (2027), Quick Guide: Greenland shark, <i>Current Biology</i>: (A) the distribution of the sleeper sharks, (B) the temperature dependence of shark resting metabolic rate, and (C) the maximum intrinsic rate of population increase across sharks. Code is MIT-licensed; data in data/ and outputs/ are CC BY 4.0. IUCN Red List range polygons are not included.",
+  "creators": [
+    {"name": "Dulvy, Nicholas K."},
+    {"name": "VanderWright, Wade J."}
+  ],
+  "license": "MIT",
+  "keywords": ["Greenland shark", "Somniosus microcephalus", "metabolic rate", "rmax", "elasmobranch", "life history"],
+  "access_right": "open"
+}
