@@ -1,5 +1,7 @@
 # Greenland shark: range, metabolism and population growth
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24208838.svg)](https://doi.org/10.5281/zenodo.24208838)
+
 This repository holds the minimal data and code needed to reproduce the
 three-panel figure on the Greenland shark (*Somniosus microcephalus*) in:
 
@@ -212,7 +214,14 @@ versions.
 
 ## Citation
 
-Please cite the paper above. 
+Please cite the paper above. To cite this repository (data and code), use:
+
+Dulvy, N. K. & VanderWright, W. J. (2026). Greenland shark: range, metabolism
+and population growth (data and code). Zenodo.
+https://doi.org/10.5281/zenodo.24208838
+
+This concept DOI always resolves to the latest version; v1.0.0 is
+https://doi.org/10.5281/zenodo.24208839.
 
 ## Licence
 
